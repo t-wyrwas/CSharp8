@@ -9,13 +9,14 @@ namespace NullableReferences
         static void Main(string[] args)
         {
             string name = null;
-            // string? surname;
 
             int i = 5;
             // int j = null;
 
             int? k = null;
             Nullable<int> l = null;
+            
+            // string? surname;
         }
     }
 }
